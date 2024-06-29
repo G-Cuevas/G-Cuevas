@@ -6,6 +6,8 @@ Fullstack Developer
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [cuevasgilberto118@gmail.com](mailto:cuevasgilberto118@gmail.com)
+* 🧠  I'm learning React Native
+* 🤝  I'm open to collaborating on challenging projects and learning opportunities
 
 ### Skills
 
