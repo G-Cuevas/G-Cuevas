@@ -1,13 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gilberto Cuevas
-=======================================================================================================================================
-
-Fullstack Developer
--------------------
-
-* 🌍  I'm based in México
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on challenging projects and learning opportunities
-* ✉️  You can contact me at [cuevasgilberto118@gmail.com](mailto:cuevasgilberto118@gmail.com)
+* 👋  Hi, I'm Gilberto Cuevas
+* 🖥️  Fullstack Developer
+* 🌍  Living in México
+* 🧠  Learning React Native
+* ✉️  Contact me at [cuevasgilberto118@gmail.com](mailto:cuevasgilberto118@gmail.com)
 
 ### Skills
 
