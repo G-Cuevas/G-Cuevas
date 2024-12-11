@@ -1,8 +1,8 @@
-* 👋  Hi, I'm Gilberto Cuevas
-* 🖥️  Fullstack Developer
-* 🌍  Living in México
-* 🧠  Learning React Native
-* ✉️  Contact me at [cuevasgilberto118@gmail.com](mailto:cuevasgilberto118@gmail.com)
+* 👋 Hi, I'm Gilberto Cuevas
+* 🖥️ Fullstack Developer
+* 🌍 Living in México
+* 🧠 Learning React Native
+* ✉️ Contact me at [cuevasgilberto118@gmail.com](mailto:cuevasgilberto118@gmail.com)
 
 ### Skills
 
